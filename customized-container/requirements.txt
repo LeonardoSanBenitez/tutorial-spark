@@ -1,3 +1,5 @@
-numpy
-pandas
-pyspark
+numpy==1.20.3
+pandas==1.2.4
+scipy==1.6.3
+pyspark==3.1.2
+boto3==1.17.17
